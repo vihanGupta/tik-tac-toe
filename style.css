@@ -1,0 +1,63 @@
+.grid
+{
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.btn
+{
+    text-align: center;
+}
+.spot1,.spot2,.spot3,.spot4,.spot5,.spot6,.spot7,.spot8,.spot9
+{
+    font-size: 40px;
+    width: 80px;
+}
+.spot1
+{
+    margin-left: 400px;
+}
+.spot2
+{
+    margin-left: 500px;
+    margin-top: -68px;
+}
+.spot3
+{
+    margin-left: 600px;
+    margin-top: -68px;
+}
+.spot4
+{
+    margin-left: 400px;
+}
+.spot5
+{
+    margin-left: 500px;
+    margin-top: -68px;
+}
+.spot6
+{
+    margin-left: 600px;
+    margin-top: -68px;
+}
+.spot7
+{
+    margin-left: 400px;
+}
+.spot8
+{
+    margin-left: 500px;
+    margin-top: -68px;
+}
+.spot9
+{
+    margin-left: 600px;
+    margin-top: -68px;
+}
+.spot1:hover,.spot2:hover,.spot3:hover,.spot4:hover,.spot5:hover,.spot6:hover,.spot7:hover,.spot8:hover,.spot9:hover
+{
+    cursor: pointer;
+    font-size: 50px;
+    width: 90px;
+}
